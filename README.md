@@ -14,7 +14,6 @@ C/C++编译
 
 ## 文件层次
 
-* .vscode (VScode配置)
 * Application (系统应用层)
 	* Apps(系统控制层)
 	* Tasks(FreeRTOS任务层)
